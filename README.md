@@ -13,4 +13,4 @@ Heat time-series prediction: [heat_time_series_prediction.ipynb](https://github.
 gdp_temperature_prediction: [gdp_temperature_prediction.ipynb](https://github.com/YepLiu/MDA_Heat-waves/blob/main/code/gdp_temperature_prediction.ipynb)  
 
 
-Remark: Most data are provided in [data](https://github.com/YepLiu/MDA_Heat-waves/tree/main/data), the raw data of weather is huge to upload, the resource of the data is mentioned in the report.
+Remark: Most data are provided in [data](https://github.com/YepLiu/MDA_Heat-waves/tree/main/data), the raw data of weather is too huge to upload, the source of the data is mentioned in the report.
